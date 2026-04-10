@@ -136,15 +136,6 @@ Each `Place` contains:
 - `place_type`
 - `introduction`
 
-## Publishing
-
-Build the package before publishing:
-
-```bash
-bun run build
-npm publish --access public
-```
-
 ## Notes
 
 - Target site markup changes over time. Selector maintenance is part of owning this package.
